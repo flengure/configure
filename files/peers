@@ -1,0 +1,69 @@
+[Peer]
+# tg mac
+PublicKey     = RZaJfR6/xK57e7uI9HQiDIuWLeAM2xc1+tbS5bQusnQ=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.128
+PersistentKeepalive = 25
+
+[Peer]
+# tg win
+PublicKey     = htwzLBgouUj+sBi2Xw0upT1OxzG5Mgqy/WPDQTjuE2I=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.129
+PersistentKeepalive = 25
+
+[Peer]
+# jenie
+PublicKey     = GwYUfSmxg+bG/U7wG4VbohbwM9PGH11jYIap/7FvyGM=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.130
+PersistentKeepalive = 25
+
+[Peer]
+# Daniel
+PublicKey     = /azZjzx9IjhnIgjWyxBzBOEUSj6hHKiM7NpmiAY6XlI=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.136
+PersistentKeepalive = 25
+
+[Peer]
+# Charles
+PublicKey     = 1ATpS7RmMBSdPDcf6pOLIcYuXFB1wxeMnFyMXNhhDiE=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.132
+PersistentKeepalive = 25
+
+[Peer]
+# Emmanuel
+PublicKey     = eiKsjtavQW5yYvTofjfxasAokVQjzOMuSVbckH/22T4=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.138
+PersistentKeepalive = 25
+
+[Peer]
+# Joshua
+PublicKey     = 5xLx694IQCVp2e95wOR7lMGR1GY0ix1rH+9YWQRDAwo=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.133
+PersistentKeepalive = 25
+
+[Peer]
+# Deborah
+PublicKey     = Z5XCP1kyMiX/eZVERa5WMcDAmpN6VzTMTTOXqVDHt30=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.141
+PersistentKeepalive = 25
+
+[Peer]
+# Stephen
+PublicKey     = 9Tu2Ki8JUzlq4pZax6MN9Q4upGEI3pcq7z4EGEgkoV0=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.142
+PersistentKeepalive = 25
+
+[Peer]
+# Best
+PublicKey     = oLowCE1S+4264t/Kchpxrk5x7Hk4dgJFGd3DVm6c83A=
+PresharedKey  = EOTAgNBy4i36uWMFz8tfZpismg8Om6dHRio5djv7kg8=
+AllowedIPs    = 10.95.16.143
+PersistentKeepalive = 25
